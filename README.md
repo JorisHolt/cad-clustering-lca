@@ -6,7 +6,6 @@ This repository provides all derivation, functions, and validation steps for ass
 
 - `derivation/`: Cluster derivation in the SWEDEHEART dataset, including model selection and interpretation.
 - `functions/`: Fully hardcoded and documented cluster assignment function using pre-specified LCA probabilities.
-- `validation/`: Evaluation of function performance on external data (SMART) compared with `poLCA.posterior`.
 - `figures/`: Visuals used across HTML outputs (e.g., elbow plot, correlation heatmaps).
 - `docs/`: HTML-rendered reports for web access via GitHub Pages.
 
